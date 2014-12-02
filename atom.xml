@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[心智的力量]]></title>
   <link href="http://saintbird.github.io/atom.xml" rel="self"/>
   <link href="http://saintbird.github.io/"/>
-  <updated>2014-12-02T16:55:21+08:00</updated>
+  <updated>2014-12-02T19:53:14+08:00</updated>
   <id>http://saintbird.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Saintbird]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
