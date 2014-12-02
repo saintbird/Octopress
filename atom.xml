@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[心智的力量]]></title>
+  <title><![CDATA[Mind Power]]></title>
   <link href="http://saintbird.github.io/atom.xml" rel="self"/>
   <link href="http://saintbird.github.io/"/>
-  <updated>2014-12-02T19:53:14+08:00</updated>
+  <updated>2014-12-02T23:03:16+08:00</updated>
   <id>http://saintbird.github.io/</id>
   <author>
     <name><![CDATA[Saintbird]]></name>
@@ -12,5 +12,14 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Resources]]></title>
+    <link href="http://saintbird.github.io/blog/2014/12/02/resources/"/>
+    <updated>2014-12-02T22:43:25+08:00</updated>
+    <id>http://saintbird.github.io/blog/2014/12/02/resources</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
 </feed>
