@@ -1,0 +1,42 @@
+---
+layout: post
+title: "Use Mac"
+date: 2014-12-03 16:56:26 +0800
+comments: true
+categories: mac
+---
+
+###Tools
+1 iTerm + ZSH
+
+2 Sublime
+
+[Sublime Tips & Tricks](http://code.tutsplus.com/tutorials/sublime-text-2-tips-and-tricks--net-21519)
+
+3 Afred
+
+4 Dash
+
+5 Mou
+
+###Useful Commond
+
+1 alias
+
+alias omm=/User/Applications/OmmWriter.app/Contents/MacOS/OmmWriter
+
+2 soft link
+
+ln -s /User/Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl /User/bin/subl
+
+3 brew & brew cask
+
+4 autojump
+
+[autojump](https://github.com/joelthelion/autojump)
+
+5 d : display the recent folder
+
+###Configuration
+
+1 Trackpad -> Tap to click
