@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: R | Mind Power]]></title>
+  <link href="http://saintbird.github.io/blog/categories/r/atom.xml" rel="self"/>
+  <link href="http://saintbird.github.io/"/>
+  <updated>2014-12-07T16:41:53+08:00</updated>
+  <id>http://saintbird.github.io/</id>
+  <author>
+    <name><![CDATA[Saintbird]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Use R]]></title>
+    <link href="http://saintbird.github.io/blog/2014/12/03/r/"/>
+    <updated>2014-12-03T16:56:26+08:00</updated>
+    <id>http://saintbird.github.io/blog/2014/12/03/r</id>
+    <content type="html"><![CDATA[<h4>入门课程</h4>
+
+<ul>
+<li>Code School : Try R</li>
+<li>Swirl</li>
+</ul>
+
+
+<h4>数据结构</h4>
+
+<ul>
+<li>Vector</li>
+<li>List</li>
+<li>Data Frame</li>
+</ul>
+
+
+<h5>函数</h5>
+
+<ul>
+<li>subset:<a href="http://www.ats.ucla.edu/stat/r/faq/subset_R.htm">http://www.ats.ucla.edu/stat/r/faq/subset_R.htm</a></li>
+</ul>
+
+
+<h5>R Packages</h5>
+
+<ul>
+<li>数据抓取 ： RCurl</li>
+<li>金融数据分析：Quantmod</li>
+<li>数据加工厂：Plyr</li>
+<li>数据可视化 ： GGPlot2</li>
+<li>Web交互 : Shiny</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+</feed>
